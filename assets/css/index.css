@@ -1,0 +1,11 @@
+img.wrap {
+    float: left;
+    margin: 10px;
+}
+
+
+p {
+    margin: 10px;
+    padding: 5px;
+    line-height: 175%
+}
