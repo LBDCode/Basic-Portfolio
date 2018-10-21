@@ -7,7 +7,7 @@ img.wrap {
 }
 
 
-p {
+.content p {
     margin: 10px;
     padding: 10px 15px 5px 10px;
     line-height: 175%
