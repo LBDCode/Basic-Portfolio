@@ -8,7 +8,7 @@ body {
 }
 
 
-.heading {
+header {
     position: fixed;
     height: 66px;    
     top: 0px;
@@ -19,7 +19,7 @@ body {
     font-family: 'Georgia', Times, Times New Roman, serif;
 }
 
-.navbar {
+nav {
     height: 66px;
     width: 960px;
     display: block;
@@ -92,7 +92,7 @@ h2 {
 }
 
 
-.footer {
+footer {
     position: fixed;
     bottom: 0;    
     height: 40px;
@@ -102,3 +102,5 @@ h2 {
     color: #777777;
     text-align: center;
   }
+
+  
