@@ -40,7 +40,7 @@ form {
   button:hover {
     background: rgba(0,0,0,0);
 	  color: #4aaaa5;
-	  box-shadow: inset 0 0 0 2px #4aaaa5;
+	  box-shadow: inset 0 0 0 1px #4aaaa5;
   }
   
   textarea {
